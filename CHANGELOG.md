@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.0-rc.5](https://github.com/FraiseHQ/fraise/compare/v0.1.0-rc.4...v0.1.0-rc.5) (2026-09-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* support anchored only and unanchored recalls ([#262](https://github.com/FraiseHQ/fraise/issues/262))
+
+### Features
+
+* support anchored only and unanchored recalls ([#262](https://github.com/FraiseHQ/fraise/issues/262)) ([5db8999](https://github.com/FraiseHQ/fraise/commit/5db89992325232ff0d9bc9f02973c7f2acaf8910))
+
 ## [0.1.0-rc.4](https://github.com/FraiseHQ/fraise/compare/v0.1.0-rc.3...v0.1.0-rc.4) (2026-08-31)
 
 
